@@ -1,0 +1,7 @@
+c:\users\adam\source\repos\Deliverable 2 - Fun Places\Deliverable 2 - Fun Places\bin\Debug\Deliverable 2 - Fun Places.exe.config
+c:\users\adam\source\repos\Deliverable 2 - Fun Places\Deliverable 2 - Fun Places\bin\Debug\Deliverable 2 - Fun Places.exe
+c:\users\adam\source\repos\Deliverable 2 - Fun Places\Deliverable 2 - Fun Places\bin\Debug\Deliverable 2 - Fun Places.pdb
+c:\users\adam\source\repos\Deliverable 2 - Fun Places\Deliverable 2 - Fun Places\obj\Debug\Deliverable 2 - Fun Places.csprojAssemblyReference.cache
+c:\users\adam\source\repos\Deliverable 2 - Fun Places\Deliverable 2 - Fun Places\obj\Debug\Deliverable 2 - Fun Places.csproj.CoreCompileInputs.cache
+c:\users\adam\source\repos\Deliverable 2 - Fun Places\Deliverable 2 - Fun Places\obj\Debug\Deliverable 2 - Fun Places.exe
+c:\users\adam\source\repos\Deliverable 2 - Fun Places\Deliverable 2 - Fun Places\obj\Debug\Deliverable 2 - Fun Places.pdb
