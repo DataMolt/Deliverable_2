@@ -64,7 +64,7 @@ namespace Deliverable_2___Fun_Places
                 Console.WriteLine("How many people are you bringing with you?");
                 int value;
                 string check = Console.ReadLine();
-                if (int.TryParse(check, out value) && int.Parse(check) > 0)
+                if (int.TryParse(check, out value) && int.Parse(check) > -1)
                 {
                     input2 = int.Parse(check);
                     travelCheck = false;
@@ -87,10 +87,14 @@ namespace Deliverable_2___Fun_Places
             {
                 return3 = travel["3"];
             }
-            else (input2 > 10)
+            else if (input2 > 10)
             {
                 return3 = travel["4"];
-            }          
+            }       
+            else
+            {
+                return3 = "some means I can't understand";
+            }
             
             Console.WriteLine("Okay if you’re in the mood for {0}, then you should go to {1} and travel by {2}", 
                 return1, return2, return3);
